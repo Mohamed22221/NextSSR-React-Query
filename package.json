@@ -13,10 +13,11 @@
     "@tanstack/react-query-devtools": "^5.28.4",
     "@tanstack/react-query-next-experimental": "^5.28.4",
     "axios": "^1.6.8",
-    "next": "14.1.3",
+    "next": "^13.5.6",
     "react": "^18",
     "react-dom": "^18",
     "react-query": "^3.39.3",
+    "react-slick": "^0.30.2",
     "use-dehydrated-state": "^0.1.0"
   },
   "devDependencies": {
